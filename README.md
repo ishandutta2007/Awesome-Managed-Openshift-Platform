@@ -4,10 +4,7 @@
 
 # 🚀 Awesome Managed OpenShift Platform Ecosystem ☸️
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub Topics](https://img.shields.io/github/topics/ishandutta2007/Awesome-Managed-Openshift-Platform?style=flat-square&color=EE0000)](https://github.com/ishandutta2007/Awesome-Managed-Openshift-Platform)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a> <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) [![GitHub Topics](https://img.shields.io/github/topics/ishandutta2007/Awesome-Managed-Openshift-Platform?style=flat-square&color=EE0000)](https://github.com/ishandutta2007/Awesome-Managed-Openshift-Platform) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > A curated list of production-ready **Managed OpenShift SaaS Platforms**, **Enterprise Kubernetes Distributions**, and **Open-Source Container Orchestration Projects**. Empowering SREs, Platform Engineers, and Cloud-Native Architects to build scalable hybrid-cloud infrastructure.
 
@@ -19,7 +16,9 @@
 - [☁️ SaaS / Hosted Enterprise Platforms](#%EF%B8%8F-saas--hosted-enterprise-platforms)
 - [🛠️ Open-Source GitHub Projects](#%EF%B8%8F-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Buy Me a Coffee](#-support--buy-me-a-coffee)
 - [⚖️ Disclaimer & License](#%EF%B8%8F-disclaimer--license)
+- [📈 Star History](#-star-history)
 
 ---
 
@@ -95,10 +94,31 @@ We welcome contributions from platform engineers, cloud architects, and open-sou
 
 ---
 
+## 💖 Support & Buy Me a Coffee
+
+Thank you so much for exploring and using the **Awesome Managed OpenShift Platform** repository! 🚀
+
+If you find this list helpful, please consider:
+- ⭐ **Starring** this repository to help others discover it.
+- 🍴 **Forking** and contributing new tools, SaaS solutions, or open-source projects.
+- 📢 **Sharing** it with your fellow platform engineers, DevOps teams, and developers!
+
+If you'd like to support my open-source work and buy me a coffee, you can sponsor me via the link below:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/ishandutta2007)
+
+---
+
 ## ⚖️ Disclaimer & License
 
 - ℹ️ **Disclaimer**: This repository is a community-curated collection intended for educational and reference purposes. Product names and logos belong to their respective owners.
 - 📄 **License**: Released under the [MIT License](LICENSE).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Managed-Openshift-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Managed-Openshift-Platform&type=date&legend=top-left)
 
 ---
 
