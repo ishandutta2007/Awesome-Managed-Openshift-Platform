@@ -1,0 +1,2 @@
+# Awesome-Managed-Openshift-Platform
+
