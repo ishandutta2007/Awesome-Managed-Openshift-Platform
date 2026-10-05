@@ -56,9 +56,9 @@ The table below lists leading managed OpenShift services and enterprise Kubernet
 
 ## 🛠️ Open-Source GitHub Projects
 
-Below is a list of top open-source projects powering OpenShift, Kubernetes distributions, GitOps pipelines, and container engines, sorted by **GitHub Stars (Descending)**.
+Below is a list of top open-source projects powering OpenShift, Kubernetes distributions, GitOps pipelines, and container engines, sorted by **GitHub_Stars (Descending)**.
 
-| 📦 Repository & Project | ⭐ GitHub Stars (Link to Stargazers) | 📝 Description |
+| 📦 Repository & Project | ⭐ GitHub_Stars (Link to Stargazers) | 📝 Description |
 | :--- | :---: | :--- |
 | **[Kubernetes](https://github.com/kubernetes/kubernetes)** | [![Stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=social)](https://github.com/kubernetes/kubernetes/stargazers) | The core open-source container orchestration platform underpinning OpenShift, Tanzu, and cloud services. |
 | **[k3s](https://github.com/k3s-io/k3s)** | [![Stars](https://img.shields.io/github/stars/k3s-io/k3s?style=social)](https://github.com/k3s-io/k3s/stargazers) | Lightweight CNCF-certified Kubernetes distribution built for IoT, Edge, Dev, and CI environments. |
